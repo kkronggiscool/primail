@@ -1,0 +1,15 @@
+{
+  "Skibiditoilet@primary.com": {
+    "password": "$2a$10$Bu4Cyua9yIMp4VgY0l4bPeXMmfSI0NRcPkvN6laocGBLR/uzW7rJq"
+  },
+  "addisonhunt@primary.com": {
+    "password": "$2a$10$KJeaJyhvlLhH/fx3BZhSLeiv3tK75hBVz4FGMFAtimt3./tGH9bHG"
+  },
+  "primaryadmin@primary.com": {
+    "password": "$2a$10$a66SJ/LhVWStV2OMZwDVL.qGfGJQ3HeiXG2z0xHzYotv2fSjj7TPq"
+  },
+  "minishakk@primary.com": {
+    "password": "$2a$10$336tA3RMPFprURJ9vZa7WeCfXTygvKesJFF59z3t5DvPjP.1IN4Yq",
+    "id": "d065fdf9-dc75-41bd-b363-eca4db031fb8"
+  }
+}

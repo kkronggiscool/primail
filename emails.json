@@ -1,0 +1,38 @@
+{
+  "c5e6e851-c9fd-40ee-a355-292a8b1e2c9f": {
+    "id": "c5e6e851-c9fd-40ee-a355-292a8b1e2c9f",
+    "from": "Skibiditoilet@primary.com",
+    "to": "minishakk@primary.com",
+    "subject": "Hi, from kkrongg",
+    "message": "Hello! This is kkrongg, I made an accont for you and testing put the emailing system. Hope this works!",
+    "date": "2024-08-22T23:28:52.925Z",
+    "read": true
+  },
+  "f3b8cd82-e2f7-4db8-a790-459efdd3d3bb": {
+    "id": "f3b8cd82-e2f7-4db8-a790-459efdd3d3bb",
+    "from": "Skibiditoilet@primary.com",
+    "to": "minishakk@primary.com",
+    "subject": "Hello again!",
+    "message": "Hi! I'm here agian to JUST say hi. Hello minishakkk! Just know I love you.",
+    "date": "2024-08-22T23:38:10.757Z",
+    "read": true
+  },
+  "3d7e6ddf-5b31-4013-9898-dd06d48049b3": {
+    "id": "3d7e6ddf-5b31-4013-9898-dd06d48049b3",
+    "from": "minishakk@primary.com",
+    "to": "Skibiditoilet@primary.com",
+    "subject": "hi, from primail",
+    "message": "hello",
+    "date": "2024-08-22T23:51:46.151Z",
+    "read": true
+  },
+  "ada2762e-c901-4afd-9bca-1268e6be90d6": {
+    "id": "ada2762e-c901-4afd-9bca-1268e6be90d6",
+    "from": "minishakk@primary.com",
+    "to": "Skibiditoilet@primary.com",
+    "subject": "a",
+    "message": "asdasdadasd",
+    "date": "2024-08-23T00:00:45.323Z",
+    "read": true
+  }
+}
